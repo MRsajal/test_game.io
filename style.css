@@ -80,14 +80,14 @@ h1{
         padding: 10px;
     }
     .s-box{
-        width: 10px;
-        height: 10px;
+        width: 20px;
+        height: 20px;
     }
     .main-box{
         gap: 10px
     }
     .btn{
-        width: 35px;
-        height: 35px;
+        width: 45px;
+        height: 45px;
     }
 }
